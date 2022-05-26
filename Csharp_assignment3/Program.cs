@@ -16,7 +16,7 @@ ANS: const -- immutable values which are known at compile time and do not change
 ANS: constructor is used to create an object of the class and initialize class members.
 
 4. Why is the partial keyword useful?
-ANS: 
+ANS:  a partial class is to allow the splitting of a class definition across multiple files.
 
 5. What is a tuple?
 ANS: a data structure which gives the easiest way to represent a data set which has multiple values. 
